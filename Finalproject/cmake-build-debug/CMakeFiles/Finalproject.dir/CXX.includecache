@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ryo yenata/CLionProjects/Finalproject/Contacts.h
+string
+-
+iostream
+-
+fstream
+-
+
+C:/Users/Ryo yenata/CLionProjects/Finalproject/function.h
+string
+-
+iomanip
+-
+iostream
+-
+Contacts.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/Contacts.h
+
+C:/Users/Ryo yenata/CLionProjects/Finalproject/main.cpp
+iostream
+-
+string
+-
+vector
+-
+iomanip
+-
+algorithm
+-
+Contacts.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/Contacts.h
+function.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/function.h
+time.h
+-
+menu.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/menu.h
+
+C:/Users/Ryo yenata/CLionProjects/Finalproject/menu.h
+iostream
+-
+string
+-
+vector
+-
+iomanip
+-
+algorithm
+-
+Contacts.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/Contacts.h
+function.h
+C:/Users/Ryo yenata/CLionProjects/Finalproject/function.h
+time.h
+-
+fstream
+-
+
